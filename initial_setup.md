@@ -52,4 +52,4 @@ Result is `.js` file.
 ```console
 $ node file.js
 ```
-- alternatively, use the `lite-server`, and check the **console tab** of the webpage, for output.
+- alternatively, use the `lite-server`, and check the **console tab** (right-click -> inspect) of the webpage, for output.
