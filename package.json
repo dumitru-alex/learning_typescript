@@ -1,0 +1,24 @@
+{
+  "name": "learning_typescript",
+  "version": "1.0.0",
+  "description": "learning javascript",
+  "main": "using_types.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "resume": "npm install --only=dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumitru-alex/learning_typescript.git"
+  },
+  "author": "Alex Dumitru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumitru-alex/learning_typescript/issues"
+  },
+  "homepage": "https://github.com/dumitru-alex/learning_typescript#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
