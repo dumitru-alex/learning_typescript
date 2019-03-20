@@ -41,11 +41,11 @@ b) run `npm install --only=dev` (or `npm run resume`) in the folder of the repo,
 
 - you always compile `.ts` files with:
 ```console
-$ tsc
+$ tsc file.ts 
 ```
 OR, if you have your `tsconfig.json` file properly configured:
 ```console
-$ tsc file.ts 
+$ tsc
 ```
 Result is `.js` file.
 - `.js` file you run with:
